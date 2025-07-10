@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,4 +13,3 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # modern-product-launch-react
 This project is for practicing Figma to React conversion skill.
->>>>>>> 8039621ec7e75d219a429423adb5f8f4826a4015
